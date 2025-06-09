@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const projectCards = document.querySelectorAll('.project-card');
     projectCards.forEach((card, index) => {
-        card.style.animationDelay = `${index * 0.2}s`;
+        card.style.animationDelay = `${index * 0.0}s`;
     });
 });
 
