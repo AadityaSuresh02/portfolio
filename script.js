@@ -1,8 +1,4 @@
-// Mobile menu toggle
-function toggleMenu() {
-    const navLinks = document.querySelector('.nav-links');
-    navLinks.classList.toggle('active');
-}
+
 
 // DOM loaded animation
 document.addEventListener('DOMContentLoaded', function () {
